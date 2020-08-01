@@ -20,6 +20,7 @@ gen
 tags
 .clangd/*
 compile_commands.json
+
 # Prerequisites
 *.d
 
